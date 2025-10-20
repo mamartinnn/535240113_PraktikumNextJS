@@ -1,0 +1,33 @@
+.title {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+}
+
+.intro {
+  color: #555;
+  margin-bottom: 1.5rem;
+}
+
+.serviceList {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.serviceItem {
+  margin-bottom: 0.75rem;
+}
+
+.serviceLink {
+  font-size: 1.25rem;
+  color: #0077cc;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.serviceLink:hover {
+  color: #0055aa;
+  text-decoration: underline;
+}
